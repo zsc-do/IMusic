@@ -1,7 +1,5 @@
 <template>
     <div>
-  
-  
       <van-list
           v-model="loading"
           :finished="finished"

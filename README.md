@@ -1,19 +1,17 @@
 # imusic
 
-## Project setup
-```
-npm install
-```
+#### 1.搭建
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+后台代理服务器使用：https://github.com/Binaryify/NeteaseCloudMusicApi
 
-### Compiles and minifies for production
-```
-npm run build
-```
+前台运行imusic即可
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+
+
+#### 2.界面截图
+
+<img src="picture/1.jpg" style="zoom: 30%;" />
+
+<img src="picture/2.jpg" style="zoom: 30%;" />
+
+<img src="picture/3.jpg" style="zoom: 30%;" />
